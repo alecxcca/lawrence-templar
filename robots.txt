@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alecxcca.github.io/lawrence-templar/sitemap.xml
